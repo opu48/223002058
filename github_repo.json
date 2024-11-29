@@ -1,1 +1,7 @@
-{"id":1,"name":"opu","age":23,"email":"opu42@gmail.com","city":"Bangladesh"}
+{
+  "id": "1",
+  "name": "Miftahul haque",
+  "age": 23,
+  "email": "miftahulhaque42@gmail.com",
+  "city": "Dhaka"
+}

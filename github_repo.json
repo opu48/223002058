@@ -1,7 +1,4 @@
-{
-  "id": "1",
-  "name": "Miftahul Haque",
-  "age": 23,
-  "email": "miftahulhaque42@gmail.com",
-  "city": "Dhaka"
-}
+[
+  { "name": "Miftahul Haque", "email": "miftahul@example.com", "city": "Dhaka" },
+  { "name": "John Doe", "email": "john.doe@example.com", "city": "New York" }
+]
